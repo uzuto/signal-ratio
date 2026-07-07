@@ -16,7 +16,7 @@ According to me, I think it was a bad descion, even if I agree to the fact about
 
 So, I came up with my own solution i.e. This Project.
 
-I will not force my opinions on anyone. This is just my opinion as I think that this directive "vision" is tecnically not appropiate as it does not retain the original visual geometry.
+I will not force my opinions on anyone. This is just my opinion as I think that this directive "vision" is technically not appropiate as it does not retain the original visual geometry.
 
 ## Requirements
 
