@@ -28,5 +28,5 @@ I will not force my opinions on anyone. This is just my opinion as I think that 
 
 * `git clone https://github.com/uzuto/signal-ratio`
 * copy all BDrip .mkv files in `signal-ratio` folder.
-* Copy `chapter-make-read.lua` & `signal-ratio.lua` to `~/.config/mpv/scripts` or to portable mpv directory.
+* Copy `chapter-make-read.lua` & `signal-ratio.lua` to `~/.config/mpv/scripts` or to portable mpv config directory.
 * Feel free to delete the .git tracking files and rename the folder as you wish.
