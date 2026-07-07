@@ -6,7 +6,7 @@ This project aims to fix visual mistake or should I say "creative" descison take
 
 The production team of the show used diffrent aspect ratio, 16:9 and 2.35:1 to distinguish between Present and Past timelines respectively.
 
-The native container of image is in 16:9 aspect ratio but due to technical diffrences with broadcast networks or just "creative" direction, they could'nt or did'nt put black bars below and top of image in Past scenes to make it perfectly 2.35:1.
+The native container of image is in 16:9 aspect ratio but due to technical diffrences with broadcast networks or just "creative" direction, they couldn't or didn't put black bars below and top of image in Past scenes to make it perfectly 2.35:1.
 
 Result: Past secenes appear streched vertically making characters and objects look thinner and lomger than original creating innacurate depection of actual scene.
 
