@@ -1,5 +1,7 @@
 # Signal (2016) Chapters
 
+## ------- WORK IN PROGRESS !! --------
+
 This project aims to fix visual mistake or should I say "creative" descison taken by production team of the 2016 tvN Drama [Signal](https://mydramalist.com/13239-signal) 
 
 ## The Problem
